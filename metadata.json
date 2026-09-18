@@ -1,0 +1,6 @@
+{
+  "name": "RapidLinks Accounting API",
+  "description": "REST API, Swagger OpenAPI documentation, SQL relational database, and Redis cache layer for RapidLinks Accounting Software.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
